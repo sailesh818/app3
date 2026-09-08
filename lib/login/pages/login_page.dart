@@ -1,6 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_application_3/home/page/home_page.dart';
+import 'package:flutter_application_3/home/page/main_navigationbar_page.dart';
 import 'package:flutter_application_3/login/pages/create_account_page.dart';
 import 'package:flutter_application_3/login/pages/forgot_password_page.dart';
 import 'package:flutter_application_3/login/widgets/custom_button.dart';
@@ -37,7 +38,7 @@ class _LoginPageState extends State<LoginPage> {
         loading = false;
       });
 
-      Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => HomePage()));
+      Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => MainNavigationbarPage()));
 
 
     }on FirebaseAuthException catch(e) {
