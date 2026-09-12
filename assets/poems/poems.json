@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Whispers of Dawn",
+    "title": "Every Sunrise Brings Hope",
+    "author": "Emily Carter",
+    "description": "A short inspirational poem about hope.",
+    "poem": "When dawn awakes with golden light,\nIt paints the world so warm and bright.\nThe silent breeze begins to sing,\nAnd hope returns on gentle wings.",
+    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "videoUrl": "",
+    "category": "Inspirational",
+    "tags": [
+      "hope",
+      "morning",
+      "life"
+    ]
+  },
+
+
+  {
+    "id": 2,
+    "name": "Moonlight Dreams",
+    "title": "The Silent Night",
+    "author": "John Walker",
+    "description": "A peaceful poem about the moon.",
+    "poem": "Beneath the moon so calm and bright,\nThe stars awake throughout the night.\nDreams take flight without a sound,\nWhere endless peace is always found.",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "videoUrl": "",
+    "category": "Nature",
+    "tags": [
+      "moon",
+      "night",
+      "stars"
+    ]
+  },
+
+
+  {
+    "id": 3,
+    "name": "Believe",
+    "title": "Never Give Up",
+    "author": "Sophia Green",
+    "description": "A motivational poem.",
+    "poem": "Stand again when you fall low,\nPlant the seeds and watch them grow.\nEvery dream begins today,\nIf you never walk away.",
+    "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "videoUrl": "",
+    "category": "Motivation",
+    "tags": [
+      "motivation",
+      "success",
+      "dream"
+    ]
+  }
+
+  
+]
+
